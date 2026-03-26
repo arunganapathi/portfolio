@@ -1,16 +1,9 @@
-<div align="center">
-
 # Arun Ganapathi
 
-### Senior Manager, Software Development · Oracle OPERA Cloud
-#### IAM Architect · Zero Trust · AI Security · IEEE Senior Member #100759896
+**Senior Manager, Software Development · Oracle OPERA Cloud**  
+IAM Architect · Zero Trust · AI Security · IEEE Senior Member #100759896
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0C447C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunganapathi/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-1D9E75?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GAhK--QAAAAJ)
-[![IEEE](https://img.shields.io/badge/IEEE-Senior_Member-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org/)
-[![Email](https://img.shields.io/badge/Email-reacharunxg@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:reacharunxg@gmail.com)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/arunganapathi/) · [Google Scholar](https://scholar.google.com/citations?user=GAhK--QAAAAJ) · [Email](mailto:reacharunxg@gmail.com)
 
 ---
 
@@ -20,7 +13,7 @@ I'm a senior engineering leader with **19+ years** building mission-critical clo
 
 My current focus sits at the intersection of **AI security** and **cloud-native identity**: defining secure interaction models for agentic AI and MCP (Model Context Protocol) environments, architecting Zero Trust authorization for LLM-driven applications, and publishing peer-reviewed research on enterprise IAM at scale.
 
-I hold IEEE Senior Member status and actively contribute to the academic community through conference papers, session proposals, and industry research on autonomous AI agents, Zero Trust architectures, and security-constrained cloud systems.
+I hold IEEE Senior Member status (#100759896) and actively contribute to the academic community through conference papers, session proposals, and industry research on autonomous AI agents, Zero Trust architectures, and security-constrained cloud systems.
 
 > *"Security is not a feature — it's the foundation on which trustworthy AI and cloud systems are built."*
 
@@ -28,121 +21,97 @@ I hold IEEE Senior Member status and actively contribute to the academic communi
 
 ## What I'm Working On
 
-- 🔐 **Security for AI / MCP** — Defining authorization models for MCP client-server architectures, OAuth/OIDC token specifications for LLM interactions, and end-to-end access control for AI-driven guest experiences at Oracle OPERA Cloud
-- 📄 **IEEE Research** — Papers on Zero Trust Multi-Tenant IAM for cloud-native hierarchical systems and the SAR-Cloud multi-agent framework for autonomous cloud fault remediation
-- 🎤 **Speaking** — Submitted sessions to IEEE Cloud Summit 2026 on enterprise-grade Zero Trust identity systems; developing talks on the Jevons Paradox and AI's reshaping of cloud infrastructure
-- 🌐 **ICIICE 2026** — Registered attendee/presenter, Dubai (virtual), April 2026
+- **Security for AI / MCP** — Defining authorization models for MCP client-server architectures, OAuth/OIDC token specifications for LLM interactions, and end-to-end access control for AI-driven guest experiences at Oracle OPERA Cloud
+- **IEEE Research** — Papers on Zero Trust Multi-Tenant IAM for cloud-native hierarchical systems and the SAR-Cloud multi-agent framework for autonomous cloud fault remediation
+- **Speaking** — IEEE Cloud Summit 2026 sessions on enterprise-grade Zero Trust identity systems; talks on the Jevons Paradox and AI's reshaping of cloud infrastructure
+- **ICIICE 2026** — Registered presenter, Dubai (virtual), April 2026
 
 ---
 
 ## Core Expertise
 
-```
-Identity & Access Management     ████████████████████  19 yrs
-  OAuth 2.0 / OIDC / SAML 2.0   ████████████████████
-  Zero Trust Architecture        ██████████████████░░
-  Multi-Tenant IAM Design        ██████████████████░░
-
-Cloud-Native Engineering         ███████████████████░  15 yrs
-  Oracle Cloud Infrastructure    ████████████████████
-  Microservices / Kubernetes     ██████████████████░░
-  High-Availability Design       ████████████████████
-
-AI Security & Agents             ████████████████░░░░  Active
-  MCP / Agentic AI Security      ████████████████░░░░
-  LLM Authorization Models       ███████████████░░░░░
-  Security-Constrained RL        █████████████░░░░░░░
-```
+| Domain | Technologies |
+|--------|-------------|
+| **Identity & Access Management** | OAuth 2.0, OpenID Connect, SAML 2.0, SSO, RBAC, JWT, Zero Trust |
+| **Cloud & Infrastructure** | Oracle Cloud Infrastructure (OCI), Kubernetes, Microservices, High-Availability Design |
+| **Observability** | OCI APM, Prometheus, Grafana, Distributed Tracing, Anomaly Detection |
+| **Enterprise Integration** | Azure AD, Okta, PING, ADFS, REST/SOAP APIs, Oracle SOA Suite |
+| **AI Security & Agents** | MCP Security, Agentic AI Authorization, LLM Access Control, Security-Constrained RL |
 
 ---
 
-## Career Highlights
+## Career
 
-| Year | Role | Company | Impact |
-|------|------|---------|--------|
-| 2024–Now | **Senior Manager, Software Development** | Oracle | Leading OCIM platform — AI Security for MCP, Zero Trust IAM |
-| 2021–2024 | Software Cloud Architect | Oracle | Architected federated identity for ChatGPT integrations; 99.9% SLA |
-| 2018–2021 | Principal Software Engineer | Oracle | Transformed HIAM to microservices; 35% customer adoption increase |
-| 2013–2018 | Principal Consultant | Oracle | IAM delivery for Seattle City Lights, NY State, Lands' End |
-| 2010–2013 | Lead Architect | Inatech / Glencore | DCIM platform (Emerson Trellis); SOA & event-driven architectures |
+**Oracle, USA**
 
----
+- **Senior Manager, Software Development** *(Aug 2024 – Present)*  
+  Leading the OCIM platform and Security for AI initiative — defining secure MCP architectures, enterprise authorization models for AI-driven user interactions, and Zero Trust IAM for agentic systems.
 
-## Key Metrics
+- **Software Cloud Architect** *(Jul 2021 – Aug 2024)*  
+  Architected federated identity for ChatGPT integrations across global hotel chains. Delivered 99.9% SLA adherence and 50% reduction in incident response time. Engineered high-availability IAM microservices on OCI with full-stack observability.
 
-<div align="center">
+- **Principal Software Engineer** *(Feb 2018 – Jun 2021)*  
+  Transformed Oracle's Hospitality IAM into a containerized microservices architecture. Increased enterprise customer adoption by 35%, reduced system latency by 20%, and architected identity services supporting millions of authentication transactions daily.
 
-| 🏢 Platform Scale | ⚡ Performance | 📈 Business Impact |
-|:---:|:---:|:---:|
-| Millions of auth transactions/day | 99.9% SLA adherence | 35% customer adoption increase |
-| Thousands of hospitality enterprises | 50% incident reduction | 50% faster onboarding |
-| Global multi-region deployments | 20% latency improvement | 15% operational cost reduction |
+- **Principal Consultant** *(Mar 2013 – Feb 2018)*  
+  Delivered scalable IAM solutions for enterprise clients including Seattle City Lights, NY State, and Lands' End. Implemented federated identity and SSO architectures compliant with GDPR and SOX.
 
-</div>
+**Inatech, A Glencore Company, India**
+
+- **Lead Architect** *(May 2010 – Mar 2013)*  
+  Architected the Emerson Trellis DCIM platform — a cloud-ready, modular monitoring system using Java, Oracle SOA Suite, and web services. Designed event-driven delivery platforms for Yodel UK.
 
 ---
 
-## Technical Stack
+## Key Impact Metrics
 
-**Identity & Security**
-`OAuth 2.0` `OpenID Connect` `SAML 2.0` `Zero Trust` `RBAC` `SSO` `JWT` `MCP Security`
-
-**Cloud & Infrastructure**
-`Oracle Cloud Infrastructure (OCI)` `OCI APM` `OCI Monitoring & Logging` `Kubernetes` `Microservices`
-
-**Observability**
-`Prometheus` `Grafana` `Distributed Tracing` `OCI APM` `Real-time Anomaly Detection`
-
-**Integration & Protocols**
-`Azure AD` `Okta` `PING` `ADFS` `REST APIs` `SOAP` `Oracle SOA Suite` `BPEL`
-
-**AI & Emerging**
-`MCP (Model Context Protocol)` `Agentic AI Security` `LLM Authorization` `Security-Constrained RL`
+| Metric | Result |
+|--------|--------|
+| System uptime | 99.9% SLA adherence |
+| Incident response time | 50% reduction |
+| Customer adoption | 35% increase |
+| Onboarding time | 50% reduction |
+| System latency | 20% improvement |
+| Operational costs | 15% reduction |
+| Auth transactions | Millions per day |
 
 ---
 
 ## Research & Publications
 
-> IEEE Senior Member · [Google Scholar Profile](https://scholar.google.com/citations?user=GAhK--QAAAAJ)
+IEEE Senior Member · [Google Scholar](https://scholar.google.com/citations?user=GAhK--QAAAAJ)
 
-### Active Papers
-- **"Zero Trust Multi-Tenant IAM Architecture for Cloud-Native Hierarchical Systems"** — IEEE industry paper with empirical data, architecture diagrams, and production metrics from the OPERA Cloud platform
-- **"SAR-Cloud: Multi-Agent Framework for Autonomous Cloud Fault Remediation with Security-Constrained Reinforcement Learning"** — Novel framework for agentic cloud operations with Zero Trust constraints
+**"Zero Trust Multi-Tenant IAM Architecture for Cloud-Native Hierarchical Systems"**  
+IEEE industry paper with empirical data tables, architecture diagrams, and production metrics from the OPERA Cloud platform.
 
-### Conference Sessions (IEEE Cloud Summit 2026)
-- *Zero Trust IAM for Enterprise Cloud* — 25-min session with live architecture deep-dive
-- *Enterprise-Grade Identity Systems at Scale* — Production patterns from 19 years of IAM delivery
+**"SAR-Cloud: Multi-Agent Framework for Autonomous Cloud Fault Remediation with Security-Constrained Reinforcement Learning"**  
+Novel framework for agentic cloud operations integrating Zero Trust constraints with reinforcement learning-based fault remediation.
+
+**IEEE Cloud Summit 2026 — Session Proposals**
+- *Zero Trust IAM for Enterprise Cloud* — architecture deep-dive with production case studies
+- *Enterprise-Grade Identity Systems at Scale* — patterns from 19 years of IAM delivery
 
 ---
 
 ## Awards & Recognition
 
-🏆 **Oracle Unsung Heroes Award** — FY25  
-🏆 **Oracle Architects Choice Award** — FY23  
-🏆 **Oracle Hospitality R&D Hall of Fame** — FY22  
-🏆 **Oracle Hospitality Stay Strong Award** — FY23  
-🏆 **Hospitality Pineapple Award** — FY20  
-🏆 **Oracle Consulting Star Performer** — FY15  
-🏆 **Excellence in Technology, Oracle** — Q4 FY09  
-🏆 **Most Valuable Player** — FY09, FY10  
+- **Oracle Unsung Heroes Award** — FY25
+- **Oracle Architects Choice Award** — FY23
+- **Oracle Hospitality R&D Hall of Fame** — FY22
+- **Oracle Hospitality Stay Strong Award** — FY23
+- **Hospitality Pineapple Award** — FY20
+- **Oracle Consulting Star Performer** — FY15
+- **Excellence in Technology, Oracle** — Q4 FY09
+- **Most Valuable Player** — FY09, FY10
 
 ---
 
 ## Certifications
 
-- 🎓 **Oracle Cloud Infrastructure Certified Architect Associate**
-- 🎓 **Oracle Cloud Infrastructure Foundations Certified Associate**
-- 🎓 **Certified Service Oriented Architecture Infrastructure Implementation Expert** *(Oracle, 1Z0-451)*
-- 🎓 **Professional Scrum Master (PSM)**
-
----
-
-## Community & Mentorship
-
-- 🔬 **IEEE Senior Member** — Submitting to IEEE Cloud Summit 2026 and ICIICE 2026
-- 🤝 **STEM Mentor** — Judge/mentor for Future City competition (Houston/CFISD)
-- 🎙️ **Speaker** — Houston AI Club; presenting on enterprise AI security and autonomous agents
-- 📚 **Advisor** — Guiding teams on responsible AI adoption, Zero Trust architecture, and cloud-native IAM modernization
+- Oracle Cloud Infrastructure Certified Architect Associate
+- Oracle Cloud Infrastructure Foundations Certified Associate
+- Certified SOA Infrastructure Implementation Expert *(Oracle, 1Z0-451)*
+- Professional Scrum Master (PSM)
 
 ---
 
@@ -153,11 +122,14 @@ Madras Institute of Technology, India · 2006
 
 ---
 
-<div align="center">
+## Community & Mentorship
+
+- **IEEE Senior Member** — Conference papers, session proposals, and peer review
+- **STEM Mentor** — Judge/mentor for Future City competition, Houston/CFISD
+- **Speaker** — Houston AI Club; enterprise AI security and autonomous agents
+- **Advisor** — Responsible AI adoption, Zero Trust architecture, cloud-native IAM
+
+---
 
 *Always open to conversations on IAM architecture, AI security, Zero Trust design, and cloud-native engineering.*  
-*Reach me on [LinkedIn](https://www.linkedin.com/in/arunganapathi/) or at reacharunxg@gmail.com*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=arunganapathi&color=0C447C&style=flat-square&label=Profile+Views)
-
-</div>
+*Connect on [LinkedIn](https://www.linkedin.com/in/arunganapathi/) or reach me at reacharunxg@gmail.com*
