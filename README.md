@@ -19,12 +19,12 @@ I hold IEEE Senior Member status (#100759896) and actively contribute to the aca
 
 ---
 
-## What I'm Working On
+## Papers
 
 - **Security for AI / MCP** — Defining authorization models for MCP client-server architectures, OAuth/OIDC token specifications for LLM interactions, and end-to-end access control for AI-driven guest experiences at Oracle OPERA Cloud
 - **IEEE Research** — Papers on Zero Trust Multi-Tenant IAM for cloud-native hierarchical systems and the SAR-Cloud multi-agent framework for autonomous cloud fault remediation
 - **Speaking** — IEEE Cloud Summit 2026 sessions on enterprise-grade Zero Trust identity systems; talks on the Jevons Paradox and AI's reshaping of cloud infrastructure
-- **ICIICE 2026** — Registered presenter, Dubai (virtual), April 2026
+- **ICIICE 2026** — Presenter, Dubai (virtual), April 2026
 
 ---
 
